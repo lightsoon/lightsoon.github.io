@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '출력문'
+title: '데이터형-입력'
 ---
 
 [문제 상황] Q2     
