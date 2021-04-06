@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '문자열'
+title: '데이터형'
 ---
 
 [문제 상황] 
