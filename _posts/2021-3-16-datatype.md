@@ -13,9 +13,10 @@ USER ID : bellflower
 [해결 조건]  
 user id, 기관, 국가명을 변수로 만들고 각각의 값을 저장한다. 
 print 문의 format 형식지정자를 이용하여 출력한다. 
-프로그램의 실행으로 나타나는 주소는 출력 결과와 같다. 
+프로그램의 실행으로 나타나는 주소는 출력 결과와 같다.   
 
-~~~ptyhon
+
+~~~ptyhon  
 user="bellflower"
 기관="or"
 국가명="kr"
