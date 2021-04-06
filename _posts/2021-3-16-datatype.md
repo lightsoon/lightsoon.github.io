@@ -16,10 +16,8 @@ print 문의 format 형식지정자를 이용하여 출력한다.
 프로그램의 실행으로 나타나는 주소는 출력 결과와 같다. 
 
 ~~~ptyhon
-
 user="bellflower"
 기관="or"
 국가명="kr"
 print('http//www.{}.{}.{}'.format(user, 기관, 국가명))
-
 ~~~
